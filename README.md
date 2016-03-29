@@ -2,12 +2,10 @@
 
 **Contents and copyright**: This repository contains the following two packages: 1) xIST (linear Scalar Tensor) - a package implementing general scalar-tensor theories and tools for their investigation. 2) GDE (General Dark Energy) - a Mathematica notebook building on xIST to investigate these theories. Versions and release dates are:
 
-xIST (linear Scalar Tensor), version 0.7.3, {2016, 3, 29}
+xIST (linear Scalar Tensor), version 0.7.3, {2016, 3, 29}, 
 GDE (General Dark Energy), version 0.8.0, {2016, 3, 29} 
 
 CopyRight (C) 2016, Johannes Noller, under the General Public License. 
-
-Detailed CopyRight information for all packages included can also be found in the respective files.
 
 
 **Installation notes**: xIST and GDE require a working installation of Mathematica and xAct. For details, downloads and documentation for xAct please go to http://www.xact.es. After unzipping, the xIST folder should be copied into the xAct folder (i.e. into the same directory as, for example, the xTensor folder). Depending on the installation directory chosen for xAct this can vary. Common destinations are:
