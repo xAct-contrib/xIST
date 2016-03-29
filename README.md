@@ -20,7 +20,7 @@ MSWindows:
    
 After a succeful installation the xIST package can be loaded by typing
 
-<<xAct`xIST`
+<<xAct\`xIST\`
 
 into a Mathematica notebook. Note that there are no spaces in this command. GDE automatically loads the xIST package and is self-contained, so all computations in the GDE notebook can be run once xIST is installed. xIST and GDE have been tested on Windows, Mac and Linux and on Mathematica 10.3.1.0 and 9.0.1.0. 
 
