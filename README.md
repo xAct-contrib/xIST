@@ -12,15 +12,15 @@ CopyRight (C) 2016, *Johannes Noller*, under the General Public License.
 
 Linux:
    - system-wide: `/usr/share/Mathematica/Applications/xAct`
-   - single-user:$HOME/.Mathematica/Applications/xAct
+   - single-user: `$HOME/.Mathematica/Applications/xAct`
 
 Mac OS:
-   - system-wide:/Library/Mathematica/Applications/xAct
-   - single-user: /Users/ \<user> /Library/Mathematica/Applications/xAct
+   - system-wide: `/Library/Mathematica/Applications/xAct`
+   - single-user: `/Users/<user>/Library/Mathematica/Applications/xAct`
 
 MSWindows:
-   - system-wide: C:\Documents and settings\All Users\Application data\Mathematica\Applications\xAct\
-   - single-user: C:\Documents and settings\ \<user> \Application Data\Mathematica\Applications\xAct\
+   - system-wide: `C:\Documents and settings\All Users\Application data\Mathematica\Applications\xAct\`
+   - single-user: `C:\Documents and settings\<user>\Application Data\Mathematica\Applications\xAct\`
    
 After a successful installation the xIST package can be loaded by typing
 ```
