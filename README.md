@@ -8,7 +8,7 @@
 CopyRight (C) 2016, *Johannes Noller*, under the General Public License. 
 
 
-**Installation notes**: xIST and GDE require a working installation of Mathematica and xAct. For details, downloads and documentation for xAct please go to http://www.xact.es. After unzipping, the xIST folder should be copied into the xAct folder (i.e. into the same directory as, for example, the xTensor folder). Depending on the installation directory chosen for xAct this can vary. Common destinations are:
+**Installation notes**: xIST and GDE require a working installation of Mathematica and xAct. For details, downloads and documentation for xAct please go to http://www.xact.es. After downloading the files from this repository and unzipping, the downloaded xIST folder should be copied into the existing xAct folder (i.e. into the same directory as, for example, the xTensor folder). Depending on the installation directory chosen for xAct this can vary. Common destinations are:
 
 Linux:
    - system-wide: /usr/share/Mathematica/Applications/xAct
