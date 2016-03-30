@@ -20,7 +20,7 @@ Mac OS:
 
 MSWindows:
    - system-wide: C:\Documents and settings\All Users\Application data\Mathematica\Applications\xAct\
-   - single-user: C:\Documents and settings\<user>\Application Data\Mathematica\Applications\xAct\
+   - single-user: C:\Documents and settings\ \<user> \Application Data\Mathematica\Applications\xAct\
    
 After a successful installation the xIST package can be loaded by typing
 
