@@ -16,7 +16,7 @@ Linux:
 
 Mac OS:
    - system-wide:/Library/Mathematica/Applications/xAct
-   - single-user: /Users/<user>/Library/Mathematica/Applications/xAct
+   - single-user: /Users/ \<user> /Library/Mathematica/Applications/xAct
 
 MSWindows:
    - system-wide: C:\Documents and settings\All Users\Application data\Mathematica\Applications\xAct\
