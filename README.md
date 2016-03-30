@@ -11,7 +11,7 @@ CopyRight (C) 2016, *Johannes Noller*, under the General Public License.
 **Installation notes**: xIST and COPPER require a working installation of Mathematica and xAct. For details, downloads and documentation for xAct please go to http://www.xact.es. After downloading the files from this repository (and unzipping, if required), the downloaded xIST folder and its contents should be copied into the existing xAct folder (i.e. into the same directory as, for example, the xTensor folder). Depending on the installation directory chosen for xAct this can vary. Common destinations are:
 
 Linux:
-   - system-wide: /usr/share/Mathematica/Applications/xAct
+   - system-wide: `/usr/share/Mathematica/Applications/xAct`
    - single-user:$HOME/.Mathematica/Applications/xAct
 
 Mac OS:
