@@ -1,4 +1,4 @@
-# xIST (linear Scalar Tensor)
+# xIST 
 
 **Contents**: This repository contains the following two packages: 1) *xIST (linear Scalar Tensor)* - a package implementing general scalar-tensor theories and tools for their investigation. 2) *GDE (General Dark Energy)* - a Mathematica notebook building on xIST to investigate these theories. Latest versions and release dates are:
 
