@@ -21,8 +21,12 @@ Mac OS:
 MSWindows:
    - system-wide: `C:\Documents and settings\All Users\Application data\Mathematica\Applications\xAct\`
    - single-user: `C:\Documents and settings\<user>\Application Data\Mathematica\Applications\xAct\`
-   
-After a successful installation the xIST package can be loaded by typing
+
+In general the folder structure has to be
+```
+..../Mathematica/Applications/xAct/xIST/xIST.m
+```
+with the \`\`Kernel'' folder in the same directory as the xIST.m package file. After a successful installation the xIST package can be loaded by typing
 ```
 <<xAct`xIST`
 ```
