@@ -3,7 +3,7 @@
 **Contents**: This repository contains the following two packages: 1) *xIST (linear Scalar Tensor)* - a package implementing general scalar-tensor theories and tools for their investigation. 2) *COPPER (COsmological Parametrized PERturbations)* - a Mathematica notebook building on xIST to investigate these theories. Latest versions and release dates are:
 
 *xIST*, version 0.7.3, {2016, 3, 29}, 
-*COPPER*, version 0.8.0, {2016, 3, 29} 
+*COPPER*, version 0.8.3, {2016, 7, 13} 
 
 CopyRight (C) 2016, *Johannes Noller*, under the General Public License. 
 
